@@ -124,7 +124,7 @@ else:
 
 ## 🧑‍💻 Author
 
-**Seinfinity**  
+**Seinkim**  
 Former Intern — **Hana Financial Group, AI Vision Cell**  
 
 Interests:
