@@ -122,19 +122,6 @@ else:
 
 ---
 
-## 🧑‍💻 Author
-
-**Seinkim**  
-Former Intern — **Hana Financial Group, AI Vision Cell**  
-
-Interests:
-- Computer Vision
-- Video-based Generative AI
-- Face Swapping & Deepfake Detection
-- AI Workflow Engineering
-
----
-
 ## 📜 License
 
 This repository is intended for **research, educational, and experimental purposes**.
